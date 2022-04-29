@@ -25,8 +25,7 @@ const SideBar = () => (
 const ChannelListContainer = () => {
   return (
     <>
-      {" "}
-      <SideBar />{" "}
+      <SideBar />
     </>
   );
 };
