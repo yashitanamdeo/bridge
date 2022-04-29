@@ -22,10 +22,25 @@ const SideBar = () => (
   </div>
 );
 
+const CompanyHeader = () => (
+  <div className="channel-list__header">
+    <p className="channel-list__header__text">Brigde - Let's connect</p>
+  </div>
+);
+
 const ChannelListContainer = () => {
   return (
     <>
       <SideBar />
+      <div className="channel-list__list__wrapper">
+        <CompanyHeader />
+        <ChannelSearch />
+        <ChannelList
+          filters={{}}
+          channelRenderFilterFn={() => {}}
+          List={(listProps) => <TeamChannelList {...listProps} type="team" />}
+        />
+      </div>
     </>
   );
 };
