@@ -14,8 +14,7 @@ const client = StreamChat.getInstance(apiKey);
 const authToken = false;
 
 const App = () => {
-
-  if(!authToken) return <Auth /> // hide everything if not logged in
+  if (!authToken) return <Auth />; // hide everything if not logged in
 
   return (
     <div className="app__wrapper">
