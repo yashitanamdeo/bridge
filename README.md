@@ -3,4 +3,4 @@ Bridge is a Realtime Chat Messaging App with Authentication &amp; SMS Notificati
 <br>
 The project is in progress...
 <br>
-Readme is to be updated soon!
+Readme is to be updated soon!!
