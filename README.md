@@ -1,5 +1,5 @@
 # bridge
-Bridge is a Realtime Chat Messaging App with Authentication &amp; SMS Notification
+Bridge is a Real-time Chat Messaging App with Authentication &amp; SMS Notification
 <br>
 This project is in progress..!
 <br>
