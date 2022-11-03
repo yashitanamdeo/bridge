@@ -1,2 +1,3 @@
 # bridge
 The Bridge will be a Real-time Chat Messaging App with Authentication &amp; SMS Notification.
+project is on hold. 
